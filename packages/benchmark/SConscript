@@ -1,0 +1,10 @@
+import rtconfig
+
+from building import *
+
+src = Glob('*.c')
+src += Glob('assets/*.c')
+
+group = DefineGroup('LVGL-benchmark', src, depend = [''])
+
+Return('group')

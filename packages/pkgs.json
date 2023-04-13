@@ -1,0 +1,27 @@
+[
+ {
+  "path": "/packages/multimedia/LVGL/LVGL", 
+  "ver": "v8.3.1", 
+  "name": "LVGL"
+ }, 
+ {
+  "path": "/packages/multimedia/LVGL/lv_music_demo", 
+  "ver": "v0.3.1", 
+  "name": "LV_MUSIC_DEMO"
+ }, 
+ {
+  "path": "/packages/tools/cpu_usage", 
+  "ver": "latest", 
+  "name": "CPU_USAGE"
+ }, 
+ {
+  "path": "/packages/system/tlsf", 
+  "ver": "latest", 
+  "name": "TLSF"
+ }, 
+ {
+  "path": "/packages/peripherals/touch/ft5426", 
+  "ver": "latest", 
+  "name": "FT5426"
+ }
+]
