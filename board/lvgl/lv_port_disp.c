@@ -14,6 +14,7 @@
 
 #if DLG_LVGL_USE_GPU_RA6M3
     #include "lv_gpu_d2_ra6m3.h"
+    #include "lv_port_gpu.h"
 #endif
 
 #ifdef BSP_USING_SPI_LCD
