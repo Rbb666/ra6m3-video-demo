@@ -42,8 +42,6 @@ RA6M3-EK 音视频播放 demo 源码：[ra6m3-video-demo](https://github.com/Rbb
 
 代码中配置的音频输出引脚为 P908、P907 因此需要将这两个引脚连接至扬声器/放大器引脚上。（若使用瑞萨官方arduino音频拓展板直接连接即可）
 
-![image-20230509135112622](C:\Users\RTT\AppData\Roaming\Typora\typora-user-images\image-20230509135112622.png)
-
 ## 固件烧录方式
 
 * 打开 J-Flash 软件，选择目标芯片：`R7FA6M3AH` ，然后选择固件进行烧录即可
