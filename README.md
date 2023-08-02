@@ -50,6 +50,10 @@ RA6M3-EK 音视频播放 demo 源码：[ra6m3-video-demo](https://github.com/Rbb
 
 ![](docs/picture/mdk.png)
 
+* 下载：如果不需要进行调试，可以点击下载按钮烧录代码，如下是下载mdk中算法的配置
+
+![](docs/picture/download.png)
+
 ## 使用其他方式烧录固件
 
 * 打开 J-Flash 软件，选择目标芯片：`R7FA6M3AH` ，然后选择固件进行烧录即可
